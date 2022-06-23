@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 using mixasses.applicationservice.Model;
@@ -37,4 +36,5 @@ namespace mixasses.applicationservice.Services
             stream.Close();
         }
     }
+
 }
