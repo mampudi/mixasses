@@ -24,9 +24,12 @@ cd mixasses/mixasses/mixasses.console
 ```bash
 dotnet build
 ```
+```bash
+dotnet run
+```
 or
 
-Hit the build button in Visual Studio
+Hit the run button in Visual Studio
 
 ## Test
 Change into the test project directory
@@ -36,17 +39,3 @@ cd mixasses/mixasses/mixasses.Integration
 ```bash
 dotnet test
 ```
-or
-
-Run all tests in visual studio
-## Run the console application
-Change into the console project directory
-```bash
-cd mixasses//mixasses/mixasses.console
-```
-```bash
-dotnet run
-```
-or
-
-Run all the console application from visual studio
