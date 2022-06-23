@@ -4,6 +4,7 @@ namespace mixasses.applicationservice.Model
     /// <summary>
     /// This is a domain class that represents a vehicle
     /// </summary>
+    [Serializable]
     public class Vehicle
     {
         public int PositionId { get; set; }

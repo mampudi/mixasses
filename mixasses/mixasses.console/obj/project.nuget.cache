@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7VNhtH98MVA1kntepdQfb4kC4jOnS0pOVpcuXIAgpYpFwl7+RhXfDHwVXXwSWjRBSuh46P54f31UPgAwLMJjVQ==",
+  "dgSpecHash": "YOQnd9Gc9srYfcJjSlgkuCtS7uokmxSlR7G0fZX68L2If0ngUJJTZZJSDZl3qJYPKHzfNMU2MDqNaeD0oqUpFA==",
   "success": true,
   "projectFilePath": "/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.console/mixasses.console.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/madtrix/.nuget/packages/geocoordinate.netcore/1.0.0.1/geocoordinate.netcore.1.0.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

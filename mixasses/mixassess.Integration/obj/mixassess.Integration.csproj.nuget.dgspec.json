@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixassess.Integration/mixassess.Integration.csproj": {}
+  },
+  "projects": {
+    "/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.applicationservice/mixasses.applicationservice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.applicationservice/mixasses.applicationservice.csproj",
+        "projectName": "mixasses.applicationservice",
+        "projectPath": "/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.applicationservice/mixasses.applicationservice.csproj",
+        "packagesPath": "/Users/madtrix/.nuget/packages/",
+        "outputPath": "/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.applicationservice/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/madtrix/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixassess.Integration/mixassess.Integration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixassess.Integration/mixassess.Integration.csproj",
+        "projectName": "mixassess.Integration",
+        "projectPath": "/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixassess.Integration/mixassess.Integration.csproj",
+        "packagesPath": "/Users/madtrix/.nuget/packages/",
+        "outputPath": "/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixassess.Integration/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/madtrix/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.applicationservice/mixasses.applicationservice.csproj": {
+                "projectPath": "/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.applicationservice/mixasses.applicationservice.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mixasses.console", "mixasse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mixasses.applicationservice", "mixasses.applicationservice\mixasses.applicationservice.csproj", "{32B8BF7E-0749-42FA-AE4E-EEC8541FD97B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mixassess.Integration.Tests", "mixassess.Integration\mixassess.Integration.Tests.csproj", "{B39EE63E-8582-41A3-9E8A-135324793DEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{32B8BF7E-0749-42FA-AE4E-EEC8541FD97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32B8BF7E-0749-42FA-AE4E-EEC8541FD97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32B8BF7E-0749-42FA-AE4E-EEC8541FD97B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B39EE63E-8582-41A3-9E8A-135324793DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39EE63E-8582-41A3-9E8A-135324793DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39EE63E-8582-41A3-9E8A-135324793DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39EE63E-8582-41A3-9E8A-135324793DEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,8 +1,11 @@
-﻿namespace mixasses.applicationservice.Services.Interfaces
+﻿using System.Collections.Generic;
+using mixasses.applicationservice.Model;
+
+namespace mixasses.applicationservice.Services.Interfaces
 {
     public interface IVehicleSerializer
     {
-        object Deserialize(string filePath);
-        void Serialize(object data, string filePath);
+        List<Vehicle> Deserialize(string filePath);
+        void Serialize(List<Vehicle> data, string filePath);
     }
 }

@@ -21,7 +21,7 @@ namespace mixasses.console
             //The BinaryFormatter type is dangerous and is not recommended for data processing.
             //Applications should stop using BinaryFormatter as soon as possible, even if they believe the data
             //they're processing to be trustworthy. BinaryFormatter is insecure and can't be made secure.
-            var binarySerializer = new BinarySerializer();
+            var binarySerializer = new VehicleBinarySerializer();
 
             //injecting is so that if there changes in future we can switch to json or xml serializer with minimum change here
             //The only responsibility of the vehicle service is to manage vehicles (SRP)

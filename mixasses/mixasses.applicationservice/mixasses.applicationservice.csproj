@@ -8,10 +8,14 @@
     <None Remove="Model\" />
     <None Remove="Services\" />
     <None Remove="Interfaces\" />
+    <None Remove="GeoCoordinate.NetCore" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Model\" />
     <Folder Include="Services\" />
     <Folder Include="Interfaces\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="GeoCoordinate.NetCore" Version="1.0.0.1" />
   </ItemGroup>
 </Project>
