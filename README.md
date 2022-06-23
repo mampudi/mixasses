@@ -34,8 +34,11 @@ Hit the run button in Visual Studio
 ## Test
 Change into the test project directory
 ```bash
-cd mixasses/mixasses/mixasses.Integration
+cd ..
 ```
 ```bash
-dotnet test
+cd mixassess.Integration
+```
+```bash
+dotnet test -v n
 ```
