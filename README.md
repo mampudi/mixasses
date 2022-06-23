@@ -19,7 +19,7 @@ https://dotnet.microsoft.com/en-us/download/dotnet/3.1
 git clone https://github.com/mampudi/mixasses.git
 ```
 ```bash
-cd mixasses/mixasses.console
+cd mixasses/mixasses/mixasses.console
 ```
 ```bash
 dotnet build
@@ -31,7 +31,7 @@ Hit the build button in Visual Studio
 ## Test
 Change into the test project directory
 ```bash
-cd mixasses/mixasses.Integration
+cd mixasses/mixasses/mixasses.Integration
 ```
 ```bash
 dotnet test
@@ -42,7 +42,7 @@ Run all tests in visual studio
 ## Run the console application
 Change into the console project directory
 ```bash
-cd mixasses/mixasses.console
+cd mixasses//mixasses/mixasses.console
 ```
 ```bash
 dotnet run
