@@ -20,6 +20,15 @@ namespace mixasses.console
             var deserializedVehiclesFromBianry = _vehicleService.Deserialize(fileName);
             Console.WriteLine(string.Format("The number of vehicles desirialized from binary is {0}", deserializedVehiclesFromBianry.Count()));
 
+            //Position 1 34.544909 -102.100843
+            var position1ClosestVehicle = _vehicleService.GetNearestVehiclePosion(34.544909, -102.100843);
+            Console.WriteLine(string.Format("The closest vehicle to position 1 (34.544909, -102.100843) is Lat {0} Long {1}", position1ClosestVehicle.Latitude, position1ClosestVehicle.Longitude));
+
+            //Position 2 32.345544, -99.123124
+            var position2ClosestVehicle = _vehicleService.GetNearestVehiclePosion(32.345544, -99.123124);
+            Console.WriteLine(string.Format("The closest vehicle to position 2 (32.345544, -99.123124) is Lat {0} Long {1}", position2ClosestVehicle.Latitude, position2ClosestVehicle.Longitude));
+
+
             Console.ReadLine();
         }
 

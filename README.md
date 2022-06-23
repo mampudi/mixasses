@@ -33,6 +33,8 @@ Hit the run button in Visual Studio
 
 ## Test
 Change into the test project directory
+
+This can be used as part of CI/CD as part of the release pipeline
 ```bash
 cd ..
 ```
