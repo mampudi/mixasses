@@ -12,5 +12,5 @@
 /Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.console/obj/Debug/netcoreapp3.1/mixasses.console.dll
 /Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.console/obj/Debug/netcoreapp3.1/mixasses.console.pdb
 /Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.console/obj/Debug/netcoreapp3.1/mixasses.console.genruntimeconfig.cache
-/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.console/obj/Debug/netcoreapp3.1/mixasses.console.csproj.AssemblyReference.cache
 /Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.console/bin/Debug/netcoreapp3.1/GeoCoordinate.NetCore.dll
+/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.console/obj/Debug/netcoreapp3.1/mixasses.console.csprojAssemblyReference.cache
