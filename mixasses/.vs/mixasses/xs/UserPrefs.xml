@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{6D7FCEA1-0DD4-4FFD-B42F-E5B29DB2BF9B}|Default">
+  <MonoDevelop.Ide.ItemProperties.mixasses.console PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="mixasses.applicationservice/Model/Vehicle.cs">
+    <Files>
+      <File FileName="mixasses.console/Program.cs" Line="5" Column="18" />
+      <File FileName="mixasses.applicationservice/Model/Vehicle.cs" Line="22" Column="1" />
+      <File FileName="mixasses.applicationservice/Services/VehicleSerializer.cs" Line="4" Column="47" />
+      <File FileName="mixasses.applicationservice/Services/IVehicleSerializer.cs" Line="3" Column="40" />
+      <File FileName="mixasses.applicationservice/Services/VehicleService.cs" Line="49" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mixasses" expanded="True">
+            <Node name="mixasses.applicationservice" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Model" expanded="True">
+                <Node name="Vehicle.cs" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="mixasses.console" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.mixasses.applicationservice FirstBuild="True" />
+</Properties>

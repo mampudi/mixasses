@@ -1,0 +1,9 @@
+/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.applicationservice/bin/Debug/netcoreapp3.1/mixasses.applicationservice.deps.json
+/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.applicationservice/bin/Debug/netcoreapp3.1/mixasses.applicationservice.dll
+/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.applicationservice/bin/Debug/netcoreapp3.1/mixasses.applicationservice.pdb
+/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.applicationservice/obj/Debug/netcoreapp3.1/mixasses.applicationservice.csproj.AssemblyReference.cache
+/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.applicationservice/obj/Debug/netcoreapp3.1/mixasses.applicationservice.AssemblyInfoInputs.cache
+/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.applicationservice/obj/Debug/netcoreapp3.1/mixasses.applicationservice.AssemblyInfo.cs
+/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.applicationservice/obj/Debug/netcoreapp3.1/mixasses.applicationservice.csproj.CoreCompileInputs.cache
+/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.applicationservice/obj/Debug/netcoreapp3.1/mixasses.applicationservice.dll
+/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.applicationservice/obj/Debug/netcoreapp3.1/mixasses.applicationservice.pdb
