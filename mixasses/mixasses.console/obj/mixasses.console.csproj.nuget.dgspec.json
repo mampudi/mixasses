@@ -14,7 +14,7 @@
         "outputPath": "/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.applicationservice/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/madtrix/.nuget/NuGet/NuGet.Config"
+          "/Users/madtrix/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -41,6 +41,10 @@
             "GeoCoordinate.NetCore": {
               "target": "Package",
               "version": "[1.0.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             }
           },
           "imports": [
@@ -72,7 +76,7 @@
         "outputPath": "/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixasses.console/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/madtrix/.nuget/NuGet/NuGet.Config"
+          "/Users/madtrix/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

@@ -94,4 +94,3 @@
 /Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixassess.Integration/obj/Debug/netcoreapp3.1/mixassess.Integration.Tests.pdb
 /Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixassess.Integration/obj/Debug/netcoreapp3.1/mixassess.Integration.Tests.genruntimeconfig.cache
 /Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixassess.Integration/bin/Debug/netcoreapp3.1/GeoCoordinate.NetCore.dll
-/Users/madtrix/Documents/repos/mix/mixasses/mixasses/mixassess.Integration/obj/Debug/netcoreapp3.1/mixassess.Integration.Tests.csprojAssemblyReference.cache
